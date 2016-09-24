@@ -1,0 +1,8 @@
+state: California; electors: 55; 
+county: El Dorado; Hillary Clinton: 26220  
+                   Donald: 42045 Gary Johnson: 500
+		   county: Fresno; 95059 (D) 117342 (R)
+		   county: Los Angeles; Hillary: 1710505 
+		                        Donald Trump: 871930 Jill Stein:1000
+state: Florida; electors: 11;  Democrats Win !
+state: Montana; electors: 3; cancelled
